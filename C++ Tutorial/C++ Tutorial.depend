@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1597002198 source:d:\c++ projects\c++ tutorial\main.cpp
+	<iostream>
+	"Tommy.h"
+	<string>
+
+1595790493 source:d:\c++ projects\c++ tutorial\printingtest.cpp
+
+1597001783 d:\c++ projects\c++ tutorial\tommy.h
+
+1597002270 source:d:\c++ projects\c++ tutorial\tommy.cpp
+	"Tommy.h"
+	<iostream>
+	<string>
+
