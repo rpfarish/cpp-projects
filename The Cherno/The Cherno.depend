@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597286016 source:d:\c++ projects\the cherno\main.cpp
+	<iostream>
+	<string>
+
+1597191149 source:d:\c++ projects\the cherno\logger.cpp
+	<iostream>
+	"Log.h"
+
+1597191149 d:\c++ projects\the cherno\log.h
+

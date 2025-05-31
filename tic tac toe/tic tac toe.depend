@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597519046 source:d:\c++ projects\tic tac toe\main.cpp
+	<iostream>
+	<vector>
+
